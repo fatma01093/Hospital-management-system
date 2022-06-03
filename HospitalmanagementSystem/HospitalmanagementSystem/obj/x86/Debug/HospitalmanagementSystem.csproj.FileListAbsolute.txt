@@ -1,0 +1,296 @@
+c:\users\anupam hayat\documents\visual studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\HospitalmanagementSystem.exe
+c:\users\anupam hayat\documents\visual studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\HospitalmanagementSystem.pdb
+c:\users\anupam hayat\documents\visual studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Form1.resources
+c:\users\anupam hayat\documents\visual studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Main.resources
+c:\users\anupam hayat\documents\visual studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Properties.Resources.resources
+c:\users\anupam hayat\documents\visual studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csproj.GenerateResource.Cache
+c:\users\anupam hayat\documents\visual studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.exe
+c:\users\anupam hayat\documents\visual studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.pdb
+c:\users\anupam hayat\documents\visual studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.patient.resources
+C:\Users\Anupam Hayat\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Anupam Hayat\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.room.resources
+C:\Users\Anupam Hayat\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.word.resources
+C:\Users\Anupam Hayat\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.doctor.resources
+C:\Users\Anupam Hayat\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.bill.resources
+C:\Users\Anupam\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.exe
+C:\Users\Anupam\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.pdb
+C:\Users\Anupam\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\HospitalmanagementSystem.exe
+C:\Users\Anupam\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\HospitalmanagementSystem.pdb
+C:\Users\Anupam\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Anupam\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.bill.resources
+C:\Users\Anupam\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.doctor.resources
+C:\Users\Anupam\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Form1.resources
+C:\Users\Anupam\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Main.resources
+C:\Users\Anupam\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.patient.resources
+C:\Users\Anupam\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Properties.Resources.resources
+C:\Users\Anupam\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.room.resources
+C:\Users\Anupam\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.word.resources
+C:\Users\Anupam\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csproj.GenerateResource.Cache
+C:\Users\Anupam\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.register.resources
+C:\Users\Anupam\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.reset.resources
+C:\Users\Anupam\Documents\Visual Studio 2010\Projects\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.newpass.resources
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.exe
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.pdb
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\HospitalmanagementSystem.exe
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\HospitalmanagementSystem.pdb
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.bill.resources
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.doctor.resources
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Main.resources
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.newpass.resources
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.patient.resources
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Properties.Resources.resources
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.register.resources
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.reset.resources
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.room.resources
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.word.resources
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csproj.GenerateResource.Cache
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\HospitalmanagementSystem.exe.config
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\Interop.WMPLib.dll
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csproj.ResolveComReference.cache
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Login.resources
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Attendance.resources
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.BedSelection.resources
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Administration.resources
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.AddBed.resources
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Out_Patient.resources
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Attandance.resources
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Schedule.resources
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.DoctorForm.resources
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.OutpatientBill.resources
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.StuffRegistration.resources
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.StuffForm.resources
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Add_Doctor.resources
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.DoctorsRoom.resources
+C:\Users\Anupam\Desktop\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.PatientAppoinment.resources
+C:\Users\Anupam Hayat\Desktop\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\HospitalmanagementSystem.exe.config
+C:\Users\Anupam Hayat\Desktop\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csproj.ResolveComReference.cache
+C:\Users\Anupam Hayat\Desktop\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.exe
+C:\Users\Anupam Hayat\Desktop\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.pdb
+C:\Users\Anupam Hayat\Desktop\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\HospitalmanagementSystem.exe
+C:\Users\Anupam Hayat\Desktop\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\HospitalmanagementSystem.pdb
+C:\Users\Anupam Hayat\Desktop\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csprojResolveAssemblyReference.cache
+C:\Users\Anupam Hayat\Desktop\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Add_Doctor.resources
+C:\Users\Anupam Hayat\Desktop\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.AddBed.resources
+C:\Users\Anupam Hayat\Desktop\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Administration.resources
+C:\Users\Anupam Hayat\Desktop\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Attandance.resources
+C:\Users\Anupam Hayat\Desktop\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Attendance.resources
+C:\Users\Anupam Hayat\Desktop\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.BedSelection.resources
+C:\Users\Anupam Hayat\Desktop\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.bill.resources
+C:\Users\Anupam Hayat\Desktop\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.doctor.resources
+C:\Users\Anupam Hayat\Desktop\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.DoctorForm.resources
+C:\Users\Anupam Hayat\Desktop\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.DoctorsRoom.resources
+C:\Users\Anupam Hayat\Desktop\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Login.resources
+C:\Users\Anupam Hayat\Desktop\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Main.resources
+C:\Users\Anupam Hayat\Desktop\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.newpass.resources
+C:\Users\Anupam Hayat\Desktop\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Out_Patient.resources
+C:\Users\Anupam Hayat\Desktop\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.OutpatientBill.resources
+C:\Users\Anupam Hayat\Desktop\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.PatientAppoinment.resources
+C:\Users\Anupam Hayat\Desktop\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.patient.resources
+C:\Users\Anupam Hayat\Desktop\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Properties.Resources.resources
+C:\Users\Anupam Hayat\Desktop\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.register.resources
+C:\Users\Anupam Hayat\Desktop\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.reset.resources
+C:\Users\Anupam Hayat\Desktop\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.room.resources
+C:\Users\Anupam Hayat\Desktop\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Schedule.resources
+C:\Users\Anupam Hayat\Desktop\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.StuffForm.resources
+C:\Users\Anupam Hayat\Desktop\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.StuffRegistration.resources
+C:\Users\Anupam Hayat\Desktop\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.word.resources
+C:\Users\Anupam Hayat\Desktop\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csproj.GenerateResource.Cache
+C:\Users\Anupam Hayat\Desktop\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.AppoinmentList.resources
+D:\Project\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\HospitalmanagementSystem.exe.config
+D:\Project\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csproj.ResolveComReference.cache
+D:\Project\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.exe
+D:\Project\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.pdb
+D:\Project\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\HospitalmanagementSystem.exe
+D:\Project\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\HospitalmanagementSystem.pdb
+D:\Project\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csprojResolveAssemblyReference.cache
+D:\Project\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Add_Doctor.resources
+D:\Project\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.AddBed.resources
+D:\Project\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Administration.resources
+D:\Project\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.AppoinmentList.resources
+D:\Project\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Attandance.resources
+D:\Project\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Attendance.resources
+D:\Project\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.BedSelection.resources
+D:\Project\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.bill.resources
+D:\Project\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.doctor.resources
+D:\Project\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.DoctorForm.resources
+D:\Project\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.DoctorsRoom.resources
+D:\Project\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Login.resources
+D:\Project\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Main.resources
+D:\Project\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.newpass.resources
+D:\Project\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Out_Patient.resources
+D:\Project\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.OutpatientBill.resources
+D:\Project\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.PatientAppoinment.resources
+D:\Project\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.patient.resources
+D:\Project\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Properties.Resources.resources
+D:\Project\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.register.resources
+D:\Project\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.reset.resources
+D:\Project\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.room.resources
+D:\Project\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Schedule.resources
+D:\Project\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.StuffForm.resources
+D:\Project\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.StuffRegistration.resources
+D:\Project\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.word.resources
+D:\Project\FInalProject\Project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csproj.GenerateResource.Cache
+C:\Users\Hp\Downloads\Hospital-management-system-master\Hospital-management-system-master\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csproj.AssemblyReference.cache
+C:\Users\Hp\Downloads\Hospital-management-system-master\Hospital-management-system-master\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Hp\Downloads\Hospital-management-system-master\Hospital-management-system-master\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Hp\Downloads\Hospital-management-system-master\Hospital-management-system-master\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csproj.ResolveComReference.cache
+C:\Users\Hp\Downloads\Hospital-management-system-master\Hospital-management-system-master\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.exe
+C:\Users\Hp\Downloads\Hospital-management-system-master\Hospital-management-system-master\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.pdb
+C:\Users\Hp\Downloads\Hospital-management-system-master\Hospital-management-system-master\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\HospitalmanagementSystem.exe.config
+C:\Users\Hp\Downloads\Hospital-management-system-master\Hospital-management-system-master\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\HospitalmanagementSystem.exe
+C:\Users\Hp\Downloads\Hospital-management-system-master\Hospital-management-system-master\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\HospitalmanagementSystem.pdb
+C:\Users\Hp\Downloads\Hospital-management-system-master\Hospital-management-system-master\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\Interop.WMPLib.dll
+C:\Users\Hp\Downloads\Hospital-management-system-master\Hospital-management-system-master\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Hp\Downloads\Hospital-management-system-master\Hospital-management-system-master\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Add_Doctor.resources
+C:\Users\Hp\Downloads\Hospital-management-system-master\Hospital-management-system-master\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.AddBed.resources
+C:\Users\Hp\Downloads\Hospital-management-system-master\Hospital-management-system-master\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Administration.resources
+C:\Users\Hp\Downloads\Hospital-management-system-master\Hospital-management-system-master\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.AppoinmentList.resources
+C:\Users\Hp\Downloads\Hospital-management-system-master\Hospital-management-system-master\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Attandance.resources
+C:\Users\Hp\Downloads\Hospital-management-system-master\Hospital-management-system-master\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Attendance.resources
+C:\Users\Hp\Downloads\Hospital-management-system-master\Hospital-management-system-master\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.BedSelection.resources
+C:\Users\Hp\Downloads\Hospital-management-system-master\Hospital-management-system-master\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.bill.resources
+C:\Users\Hp\Downloads\Hospital-management-system-master\Hospital-management-system-master\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.doctor.resources
+C:\Users\Hp\Downloads\Hospital-management-system-master\Hospital-management-system-master\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.DoctorForm.resources
+C:\Users\Hp\Downloads\Hospital-management-system-master\Hospital-management-system-master\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.DoctorsRoom.resources
+C:\Users\Hp\Downloads\Hospital-management-system-master\Hospital-management-system-master\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Login.resources
+C:\Users\Hp\Downloads\Hospital-management-system-master\Hospital-management-system-master\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Main.resources
+C:\Users\Hp\Downloads\Hospital-management-system-master\Hospital-management-system-master\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.newpass.resources
+C:\Users\Hp\Downloads\Hospital-management-system-master\Hospital-management-system-master\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Out_Patient.resources
+C:\Users\Hp\Downloads\Hospital-management-system-master\Hospital-management-system-master\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.PatientAppoinment.resources
+C:\Users\Hp\Downloads\Hospital-management-system-master\Hospital-management-system-master\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.patient.resources
+C:\Users\Hp\Downloads\Hospital-management-system-master\Hospital-management-system-master\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Properties.Resources.resources
+C:\Users\Hp\Downloads\Hospital-management-system-master\Hospital-management-system-master\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.register.resources
+C:\Users\Hp\Downloads\Hospital-management-system-master\Hospital-management-system-master\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.reset.resources
+C:\Users\Hp\Downloads\Hospital-management-system-master\Hospital-management-system-master\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.room.resources
+C:\Users\Hp\Downloads\Hospital-management-system-master\Hospital-management-system-master\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Schedule.resources
+C:\Users\Hp\Downloads\Hospital-management-system-master\Hospital-management-system-master\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.StuffRegistration.resources
+C:\Users\Hp\Downloads\Hospital-management-system-master\Hospital-management-system-master\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.word.resources
+C:\Users\Hp\Downloads\Hospital-management-system-master\Hospital-management-system-master\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csproj.GenerateResource.cache
+C:\Users\Hp\Downloads\Hospital-management-system-master\Hospital-management-system-master\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csproj.CoreCompileInputs.cache
+A:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\HospitalmanagementSystem.exe.config
+A:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\HospitalmanagementSystem.exe
+A:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\HospitalmanagementSystem.pdb
+A:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\Interop.WMPLib.dll
+A:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\AxInterop.WMPLib.dll
+A:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csproj.AssemblyReference.cache
+A:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\Interop.WMPLib.dll
+A:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\AxInterop.WMPLib.dll
+A:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csproj.ResolveComReference.cache
+A:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.AddBed.resources
+A:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Administration.resources
+A:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.AppoinmentList.resources
+A:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Attandance.resources
+A:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Attendance.resources
+A:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.BedSelection.resources
+A:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.bill.resources
+A:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.doctor.resources
+A:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.DoctorForm.resources
+A:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.DoctorsRoom.resources
+A:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Login.resources
+A:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Main.resources
+A:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.newpass.resources
+A:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Out_Patient.resources
+A:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.PatientAppoinment.resources
+A:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.patient.resources
+A:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Properties.Resources.resources
+A:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.register.resources
+A:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.reset.resources
+A:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.room.resources
+A:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Schedule.resources
+A:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.StuffRegistration.resources
+A:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.word.resources
+A:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csproj.GenerateResource.cache
+A:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csproj.CoreCompileInputs.cache
+A:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.exe
+A:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.pdb
+D:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\HospitalmanagementSystem.exe.config
+D:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\HospitalmanagementSystem.exe
+D:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\HospitalmanagementSystem.pdb
+D:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\Interop.WMPLib.dll
+D:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\AxInterop.WMPLib.dll
+D:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csproj.AssemblyReference.cache
+D:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\Interop.WMPLib.dll
+D:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\AxInterop.WMPLib.dll
+D:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csproj.ResolveComReference.cache
+D:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Administration.resources
+D:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Attandance.resources
+D:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Attendance.resources
+D:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.bill.resources
+D:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.doctor.resources
+D:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.DoctorForm.resources
+D:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Login.resources
+D:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Main.resources
+D:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.newpass.resources
+D:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.patient.resources
+D:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Properties.Resources.resources
+D:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.register.resources
+D:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.reset.resources
+D:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.room.resources
+D:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.word.resources
+D:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csproj.GenerateResource.cache
+D:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csproj.CoreCompileInputs.cache
+D:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.exe
+D:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.pdb
+D:\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.add.resources
+C:\Users\Hp\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csproj.AssemblyReference.cache
+C:\Users\Hp\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\Hp\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\Hp\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csproj.ResolveComReference.cache
+C:\Users\Hp\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.exe
+C:\Users\Hp\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.pdb
+C:\Users\Hp\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\HospitalmanagementSystem.exe.config
+C:\Users\Hp\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\HospitalmanagementSystem.exe
+C:\Users\Hp\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\HospitalmanagementSystem.pdb
+C:\Users\Hp\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\Interop.WMPLib.dll
+C:\Users\Hp\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\Hp\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.add.resources
+C:\Users\Hp\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Administration.resources
+C:\Users\Hp\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Attandance.resources
+C:\Users\Hp\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Attendance.resources
+C:\Users\Hp\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.bill.resources
+C:\Users\Hp\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.doctor.resources
+C:\Users\Hp\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.DoctorForm.resources
+C:\Users\Hp\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Login.resources
+C:\Users\Hp\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Main.resources
+C:\Users\Hp\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.newpass.resources
+C:\Users\Hp\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.patient.resources
+C:\Users\Hp\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Properties.Resources.resources
+C:\Users\Hp\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.register.resources
+C:\Users\Hp\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.reset.resources
+C:\Users\Hp\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.room.resources
+C:\Users\Hp\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.word.resources
+C:\Users\Hp\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csproj.GenerateResource.cache
+C:\Users\Hp\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\HospitalmanagementSystem.exe.config
+C:\Users\PC\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\HospitalmanagementSystem.exe
+C:\Users\PC\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\HospitalmanagementSystem.pdb
+C:\Users\PC\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\Interop.WMPLib.dll
+C:\Users\PC\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\bin\Debug\AxInterop.WMPLib.dll
+C:\Users\PC\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csproj.AssemblyReference.cache
+C:\Users\PC\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\Interop.WMPLib.dll
+C:\Users\PC\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\AxInterop.WMPLib.dll
+C:\Users\PC\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csproj.ResolveComReference.cache
+C:\Users\PC\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.add.resources
+C:\Users\PC\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Administration.resources
+C:\Users\PC\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Attandance.resources
+C:\Users\PC\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Attendance.resources
+C:\Users\PC\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.bill.resources
+C:\Users\PC\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.doctor.resources
+C:\Users\PC\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.DoctorForm.resources
+C:\Users\PC\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Login.resources
+C:\Users\PC\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Main.resources
+C:\Users\PC\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.newpass.resources
+C:\Users\PC\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.patient.resources
+C:\Users\PC\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.Properties.Resources.resources
+C:\Users\PC\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.register.resources
+C:\Users\PC\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.reset.resources
+C:\Users\PC\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.room.resources
+C:\Users\PC\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.word.resources
+C:\Users\PC\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csproj.GenerateResource.cache
+C:\Users\PC\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.csproj.CoreCompileInputs.cache
+C:\Users\PC\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.exe
+C:\Users\PC\Desktop\graduation project\graduation project\HospitalmanagementSystem\HospitalmanagementSystem\obj\x86\Debug\HospitalmanagementSystem.pdb
